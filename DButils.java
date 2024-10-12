@@ -4,3 +4,4 @@
 Adding to test stash command in list
 updaing in remote repository to test the fetch command
 Updating in local repo to check fetch conflict
+Updating to check the difference between the fetch conflict
